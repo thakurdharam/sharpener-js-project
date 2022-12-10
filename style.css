@@ -1,0 +1,14 @@
+body{
+    padding: 10px;
+    margin: 10px;
+}
+.addExpense{
+    margin-top: 10px;
+    text-align: center;
+}
+#subbutton{
+    background-color: crimson;
+    color: white;
+    border: none;
+    text-align: center;
+}
